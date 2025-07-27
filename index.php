@@ -195,7 +195,7 @@ if (isset($_GET['traced'])) {
             <p class="text-lg text-gray-300 mb-4 max-w-xl" data-lang-key="introDesc">With UGotHere, safely analyze suspicious links before clicking, learn the real destination and protect yourself.</p>
             <div class="flex flex-col sm:flex-row gap-4 w-full justify-center">
                 <button id="show-tool-btn" type="button" class="inline-block px-8 py-4 rounded-xl font-semibold text-white bg-gradient-to-r from-blue-500 to-blue-700 shadow-lg hover:from-blue-600 hover:to-blue-800 transition text-lg" data-lang-key="goToToolButton" onclick="document.getElementById('tool-section').scrollIntoView({ behavior: 'smooth', block: 'start' });">Araca Git</button>
-                <a href="https://chrome.google.com/webstore/category/extensions" target="_blank" rel="noopener" class="inline-block px-8 py-4 rounded-xl font-semibold text-blue-400 bg-transparent border-2 border-blue-400 shadow hover:bg-blue-900 transition text-lg" data-lang-key="addToChromeButton">Chrome'a Ekle</a>
+                <a href="https://chromewebstore.google.com/detail/ugothere-link-analyzer/kpnnikhippfegonalidplgjkciiaipfj" target="_blank" rel="noopener" class="inline-block px-8 py-4 rounded-xl font-semibold text-blue-400 bg-transparent border-2 border-blue-400 shadow hover:bg-blue-900 transition text-lg" data-lang-key="addToChromeButton">Chrome'a Ekle</a>
             </div>
         </div>
     </section>
